@@ -1,0 +1,389 @@
+#homeheading{
+    
+    font-family: TimesNewRoman, "Times New Roman";
+    font-size: 50px;
+     
+
+}
+#welcome
+{
+    
+    font-family: TimesNewRoman, "Times New Roman";
+    font-size: 35px;
+            color: #5775e8;
+    margin-left: 540px;
+    margin-bottom: 8px;
+
+    
+
+}
+#home-sub-head{
+        font-family: TimesNewRoman, "Times New Roman";
+        color: #5775e8;
+    margin-left: 190px;
+    margin-top: -40px;
+        font-size: 25px;
+
+}
+
+}
+#Logbtn{
+    
+    font-size: 20px;
+    width: 50%;
+    margin-top: -15px;
+    
+    
+}
+
+#HomeImage{
+    margin-right:120px;
+}
+#sub-head{
+    font-family : TimesNewRoman, "Times New Roman";
+    margin-left: 1030px;
+   margin-top: -75px;
+    font-size: 30PX;
+    color: blue
+ 
+
+}
+
+#practical{
+
+    border-top-style: solid;
+    position: relative;
+    color: black;
+    column-gap: normal;
+    grid-auto-rows: auto;
+    background-position: right;
+    align-items: center;
+   
+    background-color: #ffffff;
+    border: 1px;
+    border-width: thin;
+    width: 30%;
+    float: right;
+    border-style: ridge;
+    border-color: black;
+    height: 300px;
+    
+    margin-top: -20px;
+    margin-right: 200px;
+    text-align: center;
+    
+    
+}
+
+#theory-heading{
+    font-family: TimesNewRoman, "Times New Roman";
+    margin-left: 380px;
+   margin-top: -60px;
+    font-size: 30PX;
+    color: blue
+}
+#theory{
+    border-top-style: solid;
+        border-top-style: solid;
+
+    position: relative;
+    color: black;
+    column-gap: normal;
+    grid-auto-rows: auto;
+    background-position: right;
+    align-items: center;
+   
+     background-color: #ffffff;
+    border: 1px;
+    border-width: thin;
+    width: 30%;
+    float: left;
+    border-style: ridge;
+    border-color: black;
+    height: 300px;
+    margin-left: 200px;
+    margin-top: -20px;
+    text-align: center;
+
+    
+    
+}
+input{
+    height: 18px;
+    width: 160px;
+    font-size: 18px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+    
+}
+#text{
+ color: #6285c6;
+    float: right;
+    border-style: dotted;
+    margin-right: 120px;
+    margin-top: 20px;
+    width: 46%;
+    text-align: center;
+    
+
+    
+ }
+#loginHead{
+    margin-left: 550px;
+    margin-top: 100px;
+}
+#frm{
+   
+    
+     background-color: #ffffff;
+    border: 1px;
+    border-width: thin;
+    width: 30%;
+    border-top-style:solid;
+    float: left;
+    height: 200px;
+    margin-left: 570px;
+    margin-top: -30px;
+    align-content: center;
+     position: relative;
+    color: black;
+    column-gap: normal;
+    grid-auto-rows: auto;
+    background-position: right;
+    
+ 
+    
+    
+    border-style: ridge;
+    border-color: black;
+ 
+    
+}
+
+#form{
+    background-color: #ffffff;
+    border: 0px;
+    border-width: thin;
+    width: 30%;
+    border-top-style:hidden;
+    float: left;
+    height: 430px;
+    margin-left: 120px; 
+    margin-top: -10px;
+}
+#subject-heading{
+    font-family: TimesNewRoman, "Times New Roman";
+        color: #2e5bd4;
+    text-align-last: center;
+    margin-top: 100px;
+        font-size: 50px;
+    
+     
+}
+#footer{
+    padding: 10px;
+    text-align: left;
+    color: black;
+    width: 97%;
+
+  
+}
+
+#contcthead{
+    margin-left:630px;
+    margin-top: 100px;
+    
+}
+
+#contctform{
+    
+    margin-top: 50px;
+    margin-left: 500px;
+    border-style: ridge;
+    width: 30%;
+    height: 120px;
+    text-align: center;
+
+}
+    
+#wrap {
+   background-color: #7bb9f0;
+    width: 100%;
+    height: 50px;
+    float: left;
+    background-image: url(http://www.saverwallpaper.com/wp-content/uploads/2016/07/Blue-Colors-Simple-Wallpaper.png)
+        
+}
+#btn{
+    padding: 8px 16px;
+    display: inline-block;
+    border border-radius: 10px;
+    float: inherit;
+    margin-left: 150px;
+    margin-top: 27px;
+    font-size: 20px;
+    width: 50%;
+    height: 40px;
+    
+background-color: lightgrey;
+}
+h3{
+    color: #101314;
+
+}
+#sub-heading{
+    float: right;
+}
+h1{
+    color: black;
+    text-align-last: center;
+    background-color: #ffffff;
+    height: 50px;
+    width: 100%;
+    position:relative;
+   
+    
+}
+#abouthead{
+    margin-right: 290px;
+}
+
+#aboutfrm{
+     width: 50%;
+    height: 150px;
+    border-style: ridge;    
+    margin-left: 380px;
+    align-self: center;
+    align-items: center;
+    text-align: center;
+        
+}
+h2{
+    text-align-last: center;
+    color: #1a1c1d;
+    margin-left: 30px;
+}
+
+    
+#head2{
+    font-size: x-large;
+    font-style: italic;
+    font font-weight: 400;
+    color: darkorange;
+    height: 400px;
+    width: 600px;
+    margin: center;
+    position: static;
+    object-position: right;
+}
+body {
+    background: #ffffff;
+
+    font: 20px Verdana, Arial, Helvetica, sans-serif;
+}
+
+
+    
+#nav {
+    margin: 200px;
+    z-index: 999;
+    margin-top: -0px;
+    padding :-50px;
+    padding-right: 80px;
+    padding-left: 80px;
+    float: center;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    position:relative;
+    list-style-type:none;
+
+   
+    
+    
+}
+    #nav li { float:left; }
+    #nav li:hover 
+{ 
+position:relative;
+    font-family: cursive;
+    
+}
+    #nav li:hover > a { 
+            background: #a8a0a0; 
+            
+            box-shadow: 5px 5px 25px #a8a0a0;
+            -moz-box-shadow: 5px 5px 25px #000;
+            -webkit-box-shadow: 5px 5px 25px #000;
+        
+    
+             border-radius: 10px;
+            -moz-border-radius: 10px;
+            -webkit-border-radius: 10px; 
+            border-style: none;
+        font-size: 20px;
+        }
+#nav li a {
+    color: #ffffff;
+    font-weight: bold;
+    text-decoration: none;
+    padding: 12px;
+    padding-right: 25px;
+    display:block;
+    font-size: 18px;
+                
+            }
+#nav li p {
+	border: 1px; 
+	color: white;
+	font-weight: bold;
+	padding-right: 30px;
+	margin-top: 12px;
+    font-size: 18px;
+
+	}
+#nav li a:hover { background-color: #7bb9f0; }        
+                    
+    #nav li ul { 
+        background: #b7bceb;
+        margin-top: -2px;
+        display: none;   
+    }
+        #nav li:hover ul {
+            display:block; 
+            position:absolute; 
+        }
+
+#Email{
+    text-align-last: right;
+}
+
+        #nav li ul {
+            background:#c8e6e2;
+            padding: 10px 5px;
+            
+            box-shadow: 5px 5px 25px #000;
+            -moz-box-shadow: 5px 5px 25px #000;
+            -webkit-box-shadow: 5px 5px 25px #000;
+            
+            border-radius: 0px 15px 15px 15px;
+            -moz-border-radius: 0px 15px 15px 15px;
+            -webkit-border-radius: 0px 5px 5px 5px;
+        }
+            #nav li ul li a, #nav li ul li a:hover {
+                background: transparent;
+                color: #222221;
+                width: 150px;
+                font-size: 0.95em;
+                font-weight: normal;
+            }
+                #nav li ul li a:hover { text-decoration: underline; 
+                    box-shadow: none;
+                    -moz-box-shadow: none;
+                    -webkit-box-shadow: none;
+                            
+                    border-radius: 0;
+                    -moz-border-radius: 0;
+                    -webkit-border-radius: 0;
+                }
